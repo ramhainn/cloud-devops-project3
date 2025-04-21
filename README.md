@@ -12,6 +12,7 @@ Objectives
 - Check AWS CloudWatch for application logs.
 
 Dependencies
+
 Local Environment
 
 - Python Environment - run Python 3.6+ applications and install Python dependencies via pip and brew
