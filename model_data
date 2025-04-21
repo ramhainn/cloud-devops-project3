@@ -1,0 +1,4 @@
+<script>start("/Users/aleksandraradzikowska/cd12355-microservices-aws-kubernetes-project-starter/analytics/model_data/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("boston_housing_prediction.joblib","boston_housing_prediction.joblib",0,681425,"665 kB",1745250233,"21/04/2025, 16:43:53");</script>
+<script>addRow("housing.csv","housing.csv",0,49082,"47.9 kB",1745250240,"21/04/2025, 16:44:00");</script>
