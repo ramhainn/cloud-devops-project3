@@ -6,4 +6,4 @@ data:
   DB_USERNAME: aruser
   DB_NAME: ardatabase
   DB_HOST: postgresql-service
-  DB_PORT: "5433"
+  DB_PORT: "5432"
