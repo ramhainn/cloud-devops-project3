@@ -1,9 +1,9 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: postgres-config
+  name: dbconfigmap
 data:
+  DB_USERNAME: aruser
   DB_NAME: ardatabase
-  DB_USER: aruser
-  DB_HOST: postgresql  # usually the service name in the same namespace
+  DB_HOST: postgresql
   DB_PORT: "5432"

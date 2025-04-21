@@ -11,8 +11,7 @@ Objectives
 - Create a service and deployment using Kubernetes configuration files to deploy the application.
 - Check AWS CloudWatch for application logs.
 
-Dependencies:
-
+Dependencies
 Local Environment
 
 - Python Environment - run Python 3.6+ applications and install Python dependencies via pip and brew
