@@ -4,7 +4,7 @@ FROM python:3.11-slim
 # Step 1: Create and set a working directory inside the container
 WORKDIR /app
 
-# Step 2: Copy the source code (app.py and requirements.txt) from the 'app' subfolder to the working directory
+# Step 2: Copy everything from the 'app' subfolder to the container's /app folder
 COPY app/ /app/
 
 # Step 3: Install required Python packages from requirements.txt
